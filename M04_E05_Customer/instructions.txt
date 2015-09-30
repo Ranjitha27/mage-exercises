@@ -1,0 +1,32 @@
+## Problem Statement
+Create a class called "Customer" with the following fields:
+- id: int
+- name: String
+- birthDate: java.util.Date
+- city: String
+
+Provide default and overloaded constructors along with the getters and setters for all the fields.
+The parameter "birthDate" in the overloaded constructor and the setter for the "birthDate" field should accept String.
+
+Override the "hashCode()" method to return a number based on the values of id, name, birthDate and city.
+
+Calling hashCode methods on two different objects with the similar data should result in the same value.
+
+
+## Instructions
+- Ensure your code compiles without any errors/warning/deprecations 
+- Follow best practices while coding
+- Avoid too many & unnecessary usage of white spaces (newline, spaces, tabs, ...), except to make the code readable
+- Use appropriate comments at appropriate places in your exercise, to explain the logic, rational, solutions, so that evaluator can know them  
+- Try to retain the original code given in the exercise, to avoid any issues in compiling & running your programs
+- Always test the program thoroughly, before saving/submitting exercises/project
+- For any issues with your exercise, contact your coach
+
+
+## Warnings
+- Take care of whitespace/trailing whitespace
+- Trim the output and avoid special characters
+- Avoid printing unnecessary values other than expected/asked output
+
+## Hints/Tips
+	No hints

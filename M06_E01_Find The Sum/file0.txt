@@ -1,0 +1,3 @@
+aloo=22.4
+bhendi=35.5
+tomato=20
